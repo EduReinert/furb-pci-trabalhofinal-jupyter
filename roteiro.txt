@@ -1,0 +1,11 @@
+aplicando em 2 imagens do dataset original
+aplicando o algoritmo em 1 imagem de blumenau e descrevendo resultados
+aplicar em 2 imagens ampliadas de locais com mudança e descrevendo resultados
+aumentando a resolução em 1 imagem de blumenau e descrevendo resultados
+descrever problemas encontrados:
+    ? resolução baixa
+    ? resolução diferente do dataset de treino
+    ? tipo de imagens diferentes do dataset de treino
+    ? número de épocas pequeno
+    ? pré processamento indefinido
+    ? dificuldade de reconhecer rios
